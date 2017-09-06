@@ -3,3 +3,11 @@ The weather data of Hangzhou city were crawled, which were visualized and analyz
 
 The file of "process of web crawler" describes the process on how to crawl the text of a web site which will introduce 
 "resquest" library for downloading URL and "beautiful soup" for parsing HTML pages.
+
+Here are some results of visualization:
+
+![temperature](https://github.com/zttara/Web_crawler-for-Weather/blob/master/pictures/weather1.jpg)
+
+![Quality](https://github.com/zttara/Web_crawler-for-Weather/blob/master/pictures/weather2.jpg)
+
+![days](https://github.com/zttara/Web_crawler-for-Weather/blob/master/pictures/weather3.jpg)
