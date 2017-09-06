@@ -5,7 +5,6 @@ The file of "process of web crawler" describes the process on how to crawl the t
 "resquest" library for downloading URL and "beautiful soup" for parsing HTML pages.
 
 Here are some results of visualization:
-
 ![temperature](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather_1.jpg)
 
 ![Quality](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather_2.jpg)
