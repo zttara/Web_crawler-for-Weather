@@ -7,6 +7,6 @@ The file of "process of web crawler" describes the process on how to crawl the t
 Here are some results of visualization:
 ![temperature](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather1.png)
 
-![Quality](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather_2.png)
+![Quality](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather2.png)
 
-![days](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather_3.png)
+![days](https://github.com/zttara/Web_crawler-for-Weather/blob/master/weather3.png)
